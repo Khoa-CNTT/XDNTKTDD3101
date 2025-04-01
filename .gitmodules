@@ -3,7 +3,7 @@
 	url = https://github.com/VnTrg85/QArenaAI.git
 [submodule "QarenaFe"]
 	path = QarenaFe
-	url = https://github.com/VnTrg85/QArenaFE.git
+	url = https://github.com/VnTrg85/QArenaFe.git
 [submodule "QarenaBe/qarenabe"]
 	path = QarenaBe/qarenabe
 	url = https://github.com/VnTrg85/QArenaBE.git
