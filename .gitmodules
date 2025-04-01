@@ -1,0 +1,3 @@
+[submodule "QarenaAI"]
+	path = QarenaAI
+	url = https://github.com/VnTrg85/QArenaAI.git
