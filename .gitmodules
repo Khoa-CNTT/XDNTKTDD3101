@@ -4,3 +4,6 @@
 [submodule "QarenaFe"]
 	path = QarenaFe
 	url = https://github.com/VnTrg85/QArenaFE.git
+[submodule "QarenaBe/qarenabe"]
+	path = QarenaBe/qarenabe
+	url = https://github.com/VnTrg85/QArenaBE.git
