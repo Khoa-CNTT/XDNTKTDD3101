@@ -1,0 +1,9 @@
+[submodule "QarenaFe"]
+	path = QarenaFe
+	url = https://github.com/VnTrg85/QArenaFE.git
+[submodule "QarenaBe"]
+	path = QarenaBe
+	url = https://github.com/VnTrg85/QArenaBE.git
+[submodule "QarenaAI"]
+	path = QarenaAI
+	url = https://github.com/VnTrg85/QArenaAI.git
